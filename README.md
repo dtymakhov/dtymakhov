@@ -1,5 +1,6 @@
 [![CodeWars](https://www.codewars.com/users/dtymakhov/badges/large)](https://www.codewars.com/users/dtymakhov/)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dtymakhov)](https://github.com/dtymakhov/github-readme-stats)
 <!--
 **dtymakhov/dtymakhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
